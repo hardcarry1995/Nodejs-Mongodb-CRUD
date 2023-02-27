@@ -8,7 +8,7 @@ Generally, here we are just letting the admin add, delete or update the user i.e
 # Level
 -Basic
 -It is very simple and important projects of nodejs and mongodb.
-So you can add this app in your resume as well.
+So you can add this app in your resume as well.   
 
 # How can i used this project in my application
 - just go to code button and download the zip file 
